@@ -52,7 +52,7 @@ All datasets were provided as `.csv` files and imported into PostgreSQL for quer
 
 ---
 
-## 🧠 Example Insights (Replace with actual results)
+## 🧠 Few Sample Insights
 
 > - Over **1,000 unique customers** were identified, with the **consumer segment** showing the highest transaction volume.
 > - **Office Supplies** category generated the most revenue.
