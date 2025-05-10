@@ -60,9 +60,15 @@ All datasets were provided as `.csv` files and imported into PostgreSQL for quer
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Files
 
-
+/hobby-stores-analysis
+│
+├── hobby stores analysis.sql # All SQL queries used for analysis
+├── master_customer.csv # Customer dataset
+├── master_product.csv # Product dataset
+├── store_data.csv # Transactional store data
+└── README.md # Project overview and documentation
 ---
 
 ## 🏁 How to Run the Project
